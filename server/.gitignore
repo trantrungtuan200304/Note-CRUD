@@ -1,0 +1,28 @@
+# Node modules directory
+node_modules/
+
+# Environment variable files
+.env
+
+# Build output directories
+build/
+dist/
+
+# MacOS custom attribute files
+.DS_Store
+
+# Log files
+*.log
+
+# Code coverage directory
+coverage/
+
+# VS Code workspace settings
+.vscode/
+
+# npm debug log file
+npm-debug.log
+
+# Dependency lock files (if using one and not the other)
+yarn.lock
+package-lock.json
