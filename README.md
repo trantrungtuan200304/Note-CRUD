@@ -1,2 +1,2 @@
-Note-CRUD
-as
+# Note App
+I build this note app to note things
